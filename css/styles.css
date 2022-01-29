@@ -6,6 +6,8 @@
 /*components*/
 @import "screens/login.css";
 /*screens*/
+@import "components/screen-header.css";
+
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
